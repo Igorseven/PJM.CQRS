@@ -5,11 +5,11 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PJM.Commands", "PJM.Commands", "{225B5F7D-89DC-47F1-8D14-C849DD25DDA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Commands.Domain", "CQRS.Commands.Domain\CQRS.Commands.Domain.csproj", "{B4F3B1B0-AC82-4021-8E68-B523B3BB1219}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJM.Commands.Domain", "CQRS.Commands.Domain\PJM.Commands.Domain.csproj", "{B4F3B1B0-AC82-4021-8E68-B523B3BB1219}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Commands.Api", "CQRS.Commands.Api\CQRS.Commands.Api.csproj", "{B7E01B58-5183-4483-AD24-D673C77C7697}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJM.Commands.Api", "CQRS.Commands.Api\PJM.Commands.Api.csproj", "{B7E01B58-5183-4483-AD24-D673C77C7697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Commands.Infrastructure", "CQRS.Commands.Infrastructure\CQRS.Commands.Infrastructure.csproj", "{2729D097-BB46-4CF3-97F5-03BFD2250B14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJM.Commands.Infrastructure", "CQRS.Commands.Infrastructure\PJM.Commands.Infrastructure.csproj", "{2729D097-BB46-4CF3-97F5-03BFD2250B14}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PJM.Query", "PJM.Query", "{098E46E2-A417-4CE3-A082-653D5954A2CA}"
 EndProject

@@ -1023,9 +1023,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Infrastructure\\CQRS.Commands.Infrastructure.csproj",
-      "projectName": "CQRS.Commands.Infrastructure",
-      "projectPath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Infrastructure\\CQRS.Commands.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Infrastructure\\PJM.Commands.Infrastructure.csproj",
+      "projectName": "PJM.Commands.Infrastructure",
+      "projectPath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Infrastructure\\PJM.Commands.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Igor Seven\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",

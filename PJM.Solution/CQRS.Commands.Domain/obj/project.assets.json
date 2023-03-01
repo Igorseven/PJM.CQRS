@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Domain\\CQRS.Commands.Domain.csproj",
-      "projectName": "CQRS.Commands.Domain",
-      "projectPath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Domain\\CQRS.Commands.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Domain\\PJM.Commands.Domain.csproj",
+      "projectName": "PJM.Commands.Domain",
+      "projectPath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Domain\\PJM.Commands.Domain.csproj",
       "packagesPath": "C:\\Users\\Igor Seven\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Domain\\obj\\",
       "projectStyle": "PackageReference",

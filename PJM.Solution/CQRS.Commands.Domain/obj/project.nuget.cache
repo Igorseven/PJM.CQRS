@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hvM/+xfKuTVamQ/i1MBbWFdXpwkwaeUfxz09kpdaAvFVL+UnqFZXTqXswCqhB8wllcaWS8rXB3bpZYQuSHv//g==",
+  "dgSpecHash": "8Tvj1Vh9hIHTJbfSaqwZvRHIpJJ13NHUJaJBsN22xgU0iTIG1sIDO6x2W3GiWTbYDtFkKW4p06XhrTctXdNzCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Domain\\CQRS.Commands.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Domain\\PJM.Commands.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

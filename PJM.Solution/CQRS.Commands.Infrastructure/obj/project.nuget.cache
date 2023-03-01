@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HzzTS+7U+tV3mnRgSuX5oSWkQIdskmivYlfNt5pXTCmNIdyA7zU4lKpvdN6hwn0b0xegLAQqXd9u0s/geHZXg==",
+  "dgSpecHash": "XQvmRBi8wU3PEJRmZ3fXHofpHxGN+ZHBKMC6+HRPuMRlgaTP5H7meLcZ69I0u8QGi/mwNvrluX1t5XoBkvgxrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Infrastructure\\CQRS.Commands.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Igor Seven\\Documents\\ProjetosNET6\\CQRS\\PJM.CQRS\\PJM.Solution\\CQRS.Commands.Infrastructure\\PJM.Commands.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Igor Seven\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
     "C:\\Users\\Igor Seven\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

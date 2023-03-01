@@ -1,4 +1,4 @@
-namespace CQRS.Commands.Api;
+namespace PJM.Commands.Api;
 
 public class WeatherForecast
 {
